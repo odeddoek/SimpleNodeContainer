@@ -10,3 +10,4 @@ app.get('/', (req, res) => {
 app.listen(port, host);
 console.log(`Running on http://${host}:/${port}`);
 console.log('Hello, My Name is Oded.');
+console.log('I got updated by the automated build.');
